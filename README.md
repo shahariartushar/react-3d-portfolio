@@ -13,28 +13,27 @@ This is a portfolio project showcasing my skills in React, ThreeJS, TailwindCSS,
 
 To run the project locally, clone the repository and install the dependencies using `npm install`:
 
-´´´
+```
 git clone https://github.com/yourusername/3d-portfolio-project.git
 cd 3d-portfolio-project
 npm install
-´´´
-
+```
 
 ## Usage
 
 To start the development server, use `npm run dev`:
 
-´´´
+```
 npm run dev
-´´´
+```
 
 This will open the project in your default browser at `http://localhost:5173`.
 
 To build the project for production, use `npm run build`:
 
-´´´
+```
 npm run build
-
+```
 
 This will create a production-ready build in the `build` directory.
 
@@ -44,5 +43,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is currently not licensed.
